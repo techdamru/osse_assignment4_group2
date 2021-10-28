@@ -27,3 +27,5 @@ Technologies used: Git, GitHub, GitHub Desktop, Eclipse IDE / Visual Studio Code
 - Give snapshots of atleast 4 pull requests by each contributor and identify the topmost contributor.
 - Analyze the files that have been proposed with changes by each pull request and take a snapshot of the proposed changes.
 
+### Sample:Project :
+ - We have created a sample project to show case the above changes
